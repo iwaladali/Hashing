@@ -2,6 +2,7 @@
 
 using namespace std;
 #define ll long long
+//Be Careful for the size of the String! Change it as you need!
 const int N = 3e5 + 5;
 #define fr first
 #define sc second
@@ -100,4 +101,5 @@ int main() {
     Hash h(s);
     
     
+
 }
